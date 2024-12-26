@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in Dapps involving incorrect ownership transfer. The original code emits an OwnershipTransferred event but doesn't actually transfer ownership. The solution provides the correct implementation.
